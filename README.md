@@ -19,7 +19,7 @@
 ## 🎀 Key Improvements
 We took the solid foundation of Myau and added the "Liquid" touch:
 
-* **🌸 New Click GUI:** Fully ported from **Raven B3** (originally by *blowsy*), offering a sleek and customizable interface.
+* **🌸 New Click GUI:**  offering a sleek and customizable interface.
 * **🛠️ Bug Fixes:** Patched numerous stability issues and glitches found in the 250910 base build.
 * **🚀 Performance Tweaks:** Optimized code for better frame rates and lower latency.
 * **🌸 Sakura Aesthetic:** Every element has been refined to match a soft pink/cherry blossom theme.
